@@ -1,3 +1,6 @@
+//Liya Binu
+//02-04-2025
+//program to get student details using structure
 #include <stdio.h>
 struct student{
 int rollNo;
